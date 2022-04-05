@@ -1,0 +1,14 @@
+body {
+    font-family: sans-serif;
+    color: #ffffff;
+}
+
+h1 {
+    color: #ffffff;
+}
+
+#header,
+.sidebar {
+    background-color: rgb(0, 0, 0);
+    background-image: none;
+}
