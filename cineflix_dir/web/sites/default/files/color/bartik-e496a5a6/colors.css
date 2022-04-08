@@ -19,22 +19,22 @@ body {
 }
 #header {
   background-color: #000000;
-  background-image: -webkit-linear-gradient(top, #b24e4e 0%, #000000 100%);
-  background-image: linear-gradient(to bottom, #b24e4e 0%, #000000 100%);
+  background-image: -webkit-linear-gradient(top, #b84242 0%, #000000 100%);
+  background-image: linear-gradient(to bottom, #b84242 0%, #000000 100%);
 }
 a,
 .link {
-  color: #ecebe0;
+  color: #ffffff;
 }
 a:hover,
 a:focus,
 .link:hover,
 .link:focus {
-  color: #b24e4e;
+  color: #b84242;
 }
 a:active,
 .link:active {
-  color: #f9f7e0;
+  color: #fefdfd;
 }
 .sidebar .block {
   border-color: #ffffff;
