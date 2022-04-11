@@ -38,7 +38,7 @@ Composer: https://www.drupal.org/docs/develop/using-composer/using-composer-to-i
 
 ### 4. Layout
 
-![gif]()
+![gif](CINEFLIX.gif)
 
 
 ## 5. Autora:
