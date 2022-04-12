@@ -1,6 +1,8 @@
 # Hands-on-CineFlix
 <img align="center" alt="Heroku" height="350" width="850" src="https://ik.imagekit.io/bga7odqg1yl/cineflix/cineflixbanner_OGYSSWHns.png?ik-sdk-version=javascript-1.4.3&updatedAt=1649452541407">
 
+ <h4 align="center"><a href="https://youtu.be/WiIukXtkW-A">Clique aqui para saber as funcionalidades do CineFlix.</a></h4>
+
 
 ## Índice
 - [1. O produto](#1-produto)
